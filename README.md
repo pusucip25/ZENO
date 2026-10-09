@@ -2,6 +2,8 @@
 
 Your AI companion on Android. Version 1.3 with improvements and bug fixes.
 
+![ZENO — AI friend on Android](screenshot.png)
+
 ## What is ZENO?
 
 ZENO is an Android AI friend app — a virtual companion that:
